@@ -1,5 +1,6 @@
 ### Hi there 👋
-[Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=1christophercoates)
+
 
 
 <!--
